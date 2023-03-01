@@ -27,9 +27,9 @@
      inkscape:cx="295.12859"
      inkscape:cy="288.04035"
      inkscape:window-width="1920"
-     inkscape:window-height="1057"
+     inkscape:window-height="1017"
      inkscape:window-x="-8"
-     inkscape:window-y="-8"
+     inkscape:window-y="32"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer1"
      showborder="false"
@@ -84,14 +84,14 @@
        id="path1630" />
     <text
        xml:space="preserve"
-       style="font-size:136.303px;line-height:1.25;font-family:'Chess Condal';-inkscape-font-specification:'Chess Condal';fill:#2c0707;fill-opacity:1;stroke:#2c0707;stroke-width:0.901588;stroke-opacity:1"
+       style="font-size:136.303px;line-height:1.25;font-family:'Chess Condal';-inkscape-font-specification:'Chess Condal';fill:#2c0707;fill-opacity:1;stroke:#e4e1d0;stroke-width:0.901588;stroke-opacity:1"
        x="254.86584"
        y="189.05608"
        id="text45350"
        transform="scale(0.98783687,1.0123129)"><tspan
          sodipodi:role="line"
          id="tspan45348"
-         style="fill:#2c0707;fill-opacity:1;stroke:#2c0707;stroke-width:0.901588;stroke-opacity:1"
+         style="fill:#2c0707;fill-opacity:1;stroke:#e4e1d0;stroke-width:0.901588;stroke-opacity:1"
          x="254.86584"
          y="189.05608">q</tspan></text>
   </g>

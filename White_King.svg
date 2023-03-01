@@ -27,9 +27,9 @@
      inkscape:cx="270.64194"
      inkscape:cy="308.0163"
      inkscape:window-width="1920"
-     inkscape:window-height="1057"
+     inkscape:window-height="1017"
      inkscape:window-x="-8"
-     inkscape:window-y="-8"
+     inkscape:window-y="32"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer1"
      showborder="false"
@@ -56,14 +56,14 @@
        id="path1781" />
     <text
        xml:space="preserve"
-       style="font-size:149.832px;line-height:1.25;font-family:'Chess Condal';-inkscape-font-specification:'Chess Condal';fill:#2c0707;fill-opacity:1;stroke:#2c0707;stroke-width:0.991067;stroke-opacity:1"
+       style="font-size:149.832px;line-height:1.25;font-family:'Chess Condal';-inkscape-font-specification:'Chess Condal';fill:#2c0707;fill-opacity:1;stroke:#e4e1d0;stroke-width:0.991067;stroke-opacity:1"
        x="-12.835923"
        y="141.90372"
        id="text19176"
        transform="scale(1.0102357,0.98986796)"><tspan
          sodipodi:role="line"
          id="tspan19174"
-         style="fill:#2c0707;fill-opacity:1;stroke:#2c0707;stroke-width:0.991067;stroke-opacity:1"
+         style="fill:#2c0707;fill-opacity:1;stroke:#e4e1d0;stroke-width:0.991067;stroke-opacity:1"
          x="-12.835923"
          y="141.90372">k</tspan></text>
   </g>

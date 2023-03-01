@@ -28,9 +28,9 @@
      inkscape:cx="286"
      inkscape:cy="239"
      inkscape:window-width="1920"
-     inkscape:window-height="1057"
+     inkscape:window-height="1017"
      inkscape:window-x="-8"
-     inkscape:window-y="-8"
+     inkscape:window-y="32"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer1"
      showborder="false"
@@ -123,14 +123,14 @@
        id="path1200" />
     <text
        xml:space="preserve"
-       style="font-size:142.824px;line-height:1.25;font-family:'Chess Leipzig';-inkscape-font-specification:'Chess Leipzig';fill:#2c0707;fill-opacity:1;stroke:#2c0707;stroke-width:0.946465;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="font-size:142.824px;line-height:1.25;font-family:'Chess Leipzig';-inkscape-font-specification:'Chess Leipzig';fill:#2c0707;fill-opacity:1;stroke:#e4e1d0;stroke-width:0.946465;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        x="2.6983843"
        y="142.40527"
        id="text76144"
        transform="scale(0.979793,1.0206237)"><tspan
          sodipodi:role="line"
          id="tspan76142"
-         style="fill:#2c0707;fill-opacity:1;stroke:#2c0707;stroke-width:0.946465;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="fill:#2c0707;fill-opacity:1;stroke:#e4e1d0;stroke-width:0.946465;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          x="2.6983843"
          y="142.40527">b</tspan></text>
     <path
